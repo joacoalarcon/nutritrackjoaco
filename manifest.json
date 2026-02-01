@@ -2,7 +2,7 @@
   "name": "NutriTrack - Coach Nutricional",
   "short_name": "NutriTrack",
   "description": "Tu asistente personal de nutrición con IA",
-  "start_url": "/nutritrack-fitia.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#4F46E5",
